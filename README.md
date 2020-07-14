@@ -9,7 +9,9 @@
 
 ## Hey there! 👍🏻
 
-My name is Lucas, but I'm better known as Diniz. I am a computer engineer who loves front-end development and computer networks.
+My name is Lucas, but I'm better known as Diniz. 
+
+I am a computer engineer who loves front-end development and computer networks.
 
 - 🧑🏻‍💻 Full-Stack Developer focused in JavaScript.
 - 🛠 Techs: Node.js, Docker, React.js, React Native, Bootstrap, etc.
