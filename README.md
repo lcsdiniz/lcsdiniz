@@ -14,10 +14,6 @@ My name is Lucas, but I'm better known as Diniz. I am a computer engineer who lo
 - 🧑🏻‍💻 Full-Stack Developer focused in JavaScript.
 - 🛠 Techs: Node.js, Docker, React.js, React Native, Bootstrap, etc.
 - :books: Studying: Typescript and data protection laws
-
-
-
----
 <!--
 **lcsdiniz/lcsdiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
