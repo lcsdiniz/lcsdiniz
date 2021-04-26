@@ -13,8 +13,8 @@ I am a computer engineer who loves front-end development and computer networks.
 
 ## 🧑🏻‍💻 About me 
 - 💻 Front-end/Mobile Developer focused in JavaScript.
-- 🛠 Techs: Node.js, Docker, React.js, React Native, Bootstrap, etc.
-- :books: Studying: Typescript and data protection laws
+- 🛠 Techs: Javascript, HTML, CSS, React.js and React Native.
+- :books: Studying: Next.js
 <!--
 **lcsdiniz/lcsdiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
