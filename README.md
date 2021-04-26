@@ -12,9 +12,9 @@ My name is Lucas, but I'm better known as Diniz.
 I am a computer engineer who loves front-end development and computer networks.
 
 ## 🧑🏻‍💻 About me 
-- 💻 Front-end/Mobile Developer focused in JavaScript.
+- 💻 Front-end/Mobile Developer.
 - 🛠 Techs: Javascript, HTML, CSS, React.js and React Native.
-- :books: Studying: Next.js
+- :books: Studying: Next.js.
 <!--
 **lcsdiniz/lcsdiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
