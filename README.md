@@ -3,7 +3,7 @@
 <img align="right" width="420" height="250" src="https://media1.tenor.com/images/c6d3c1a046a61777e7f8cfe7e74c700f/tenor.gif?itemid=13386268">
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lcsdiniz)](https://github.com/lcsdiniz)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-diniz-santos-henrique-3aa825157/)](https://www.linkedin.com/in/lucas-diniz-santos-henrique-3aa825157/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-diniz-santos-henrique-3aa825157/)](https://www.linkedin.com/in/lcsdiniz/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522998417276&text=Hello!)](https://api.whatsapp.com/send?phone=5522998417276&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasdiniz.smt@gmail.com)](mailto:lucasdiniz.smt@gmail.com)
 
