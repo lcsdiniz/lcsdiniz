@@ -2,7 +2,7 @@
 
 <img align="right" width="420" height="250" src="https://media1.tenor.com/images/c6d3c1a046a61777e7f8cfe7e74c700f/tenor.gif?itemid=13386268">
 
-My name is Lucas, I'm a Front End and Mobile Developer focused in the Javascript and React environment. Bachelor in Computer Engineering, curious, adaptable and always willing to learn.
+My name is Lucas. I'm a Front End and Mobile Developer focused in the Javascript and React environment. Bachelor in Computer Engineering, curious, adaptable and always willing to learn.
 
 * 🌍  I'm based in Campos dos Goytacazes, Rio de Janeiro
 * 🧠  I'm learning automated tests and GraphQL
